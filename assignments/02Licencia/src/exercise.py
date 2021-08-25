@@ -11,7 +11,7 @@ def main():
         else:
             print("Respuesta incorrecta")
     else:
-        print("No cumples requisitos")
+        print("Respuesta incorrecta")
     pass
 
 if __name__ == '__main__':
